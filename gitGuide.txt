@@ -30,6 +30,7 @@ copy path from git new repository as "git@github.com:nsjasraj/gitTest.git"
 git remote add origin git@github.com:nsjasraj/gitTest.git
 git push -u origin master
 
+<<<<<<< HEAD
 you will see all files in github now
 
 
@@ -43,3 +44,6 @@ Switched to a new branch 'modify-README'
 $ git branch
   master
 * modify-README
+=======
+you will see all files in github now
+>>>>>>> modified-gitGuide
